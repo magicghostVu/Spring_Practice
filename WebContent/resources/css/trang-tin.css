@@ -1,0 +1,13 @@
+.img_link{
+	margin-bottom: 8px;
+	border-style: solid;
+	border-width: 1px;
+}
+.container{
+	width: 980px;
+}
+#footer{
+	background: #9d2224;
+	color: #ffffff;
+	padding-top: 20px;
+}
